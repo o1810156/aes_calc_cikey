@@ -1,5 +1,5 @@
 [package]
-name = "calc_chikey"
+name = "calc_cikey"
 version = "0.1.0"
 authors = ["anotherhollow1125 <anotherhollow1125@gmail.com>"]
 edition = "2018"

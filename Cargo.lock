@@ -9,7 +9,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "calc_chikey"
+name = "calc_cikey"
 version = "0.1.0"
 dependencies = [
  "aes",

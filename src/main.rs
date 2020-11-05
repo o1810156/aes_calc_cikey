@@ -1,5 +1,5 @@
 use aes::*;
-use calc_chikey::*;
+use calc_cikey::*;
 
 fn main() {
     let round10_key_raw = [
